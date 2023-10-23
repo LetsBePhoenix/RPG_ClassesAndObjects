@@ -1,0 +1,21 @@
+Runen sind antike Schriftzeichen.
+Durch ausgrabungen und alten überlieferungen blieben sie über die Zeit hinweg anwesend.
+Jedoch sind Ruhnen nicht allmächtig, sie können aber fähigkeiten etwas verstärken.
+Sie nutzen das Mana der Umgebung um eine Vorbestimmte aktion auszuführen.
+
+Jene Zeichen können mit kohle auf die Haut gezeichnet werden.
+Oder sie werden auf Talismanen angebracht.
+
+Ruhnen müssen erst Erlernt und dann Verfeinert werden.
+
+
+Defense:
+	- Erzeugt ein dünnen Schild, welchr schläge und geschosse leicht abdämpft, bevor sie den körper treffen (Schaden -1)
+	- Erzeugt einen schlid, welcher direkte (Faustangriffe) komplett kontert
+
+Vampirism:
+	- Saugt einem Gestorbenen Gegner das blut aus, und heilt sich damit selbst (Pro 20 hp gegner / + 1 Hp selbst)
+	- Entzieht einem gegner die Lebenskraft (-5 hp des gegners / +1 HP selbst)
+
+Strenght:
+	- Verstärkt die Muskeln (Angriffskraft(Nahkampf) * 1,5 (Vernkampf) * 2)
