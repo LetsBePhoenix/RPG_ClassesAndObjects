@@ -1,9 +1,9 @@
 from Classes.Player import Player
-from Classes.Rune import Rune, Rune_Defense
+from Classes.Rune import *
 
 
 R1 = Rune_Defense(1)
-R2 = Rune_Defense(2)
+R2 = Rune_Vampirism(2)
 P = Player("P1",1,20,5)
 P.Tatooes(1, R1)
 P.Tatooes(2, R2)
